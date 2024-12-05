@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="packaging-equation-solver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packaging-equation-solver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
